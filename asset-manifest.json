@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nnorx.github.io/static/css/main.9866ea9b.chunk.css",
+    "main.js": "/nnorx.github.io/static/js/main.3a6aa870.chunk.js",
+    "main.js.map": "/nnorx.github.io/static/js/main.3a6aa870.chunk.js.map",
+    "runtime-main.js": "/nnorx.github.io/static/js/runtime-main.39cccb13.js",
+    "runtime-main.js.map": "/nnorx.github.io/static/js/runtime-main.39cccb13.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/nnorx.github.io/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.aa9efe28.chunk.js": "/nnorx.github.io/static/js/2.aa9efe28.chunk.js",
+    "static/js/2.aa9efe28.chunk.js.map": "/nnorx.github.io/static/js/2.aa9efe28.chunk.js.map",
+    "index.html": "/nnorx.github.io/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/nnorx.github.io/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.9866ea9b.chunk.css.map": "/nnorx.github.io/static/css/main.9866ea9b.chunk.css.map",
+    "static/js/2.aa9efe28.chunk.js.LICENSE.txt": "/nnorx.github.io/static/js/2.aa9efe28.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/nnorx.github.io/static/media/InputSerif-Regular-Edu.77701a76.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39cccb13.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.aa9efe28.chunk.js",
+    "static/css/main.9866ea9b.chunk.css",
+    "static/js/main.3a6aa870.chunk.js"
+  ]
+}
